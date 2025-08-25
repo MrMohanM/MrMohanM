@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohan M
 
-🎓 **Computer Science Engineering Student**  
+🎓 **Computer Science Engineering graduate**  
 📍 **Chennai, India**  
 💻 **Passionate about Software Development and Tester**
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering student** with a strong interest in **software development** and **testing**. I enjoy solving complex problems and building innovative solutions. My goal is to work in a dynamic organization where I can contribute to meaningful projects and grow as a professional.
+I'm a **Computer Science Engineering graduate** with a strong interest in **software development** and **testing**. I enjoy solving complex problems and building innovative solutions. My goal is to work in a dynamic organization where I can contribute to meaningful projects and grow as a professional.
 
 ---
 
